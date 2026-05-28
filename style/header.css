@@ -1,8 +1,15 @@
-@media screen and  (min-width: 800px) {
-    
-    h1 {
-        font-size: 500%;
-        color: #288246;
-        background-color: blueviolet;
-    }
+header{
+  background: linear-gradient(135deg,#2e7d32,#66bb6a);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1{
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+header p{
+  font-size: 1.2rem;
 }

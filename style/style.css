@@ -104,13 +104,13 @@ nav a:hover{
 .numero{
     width: 280px;
     background: linear-gradient(135deg, #2e7d32, #4caf50);
-    color: rgb(5, 161, 57);
+    color: rgb(241, 241, 241);
     padding: 25px;
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 6px 15px rgba(0,0,0,0.2);
     transition: 0.3s;
-    border: 3px solid white;
+    border: 3px solid rgb(190, 235, 208);
 }
 
 .numero:hover{

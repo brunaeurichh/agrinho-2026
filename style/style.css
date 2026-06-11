@@ -98,13 +98,13 @@ nav a:hover{
     gap: 30px;
     flex-wrap: wrap;
     padding: 50px 20px;
-    background: #f4fff4;
+    background: #bee4be;
 }
 
 .numero{
     width: 280px;
     background: linear-gradient(135deg, #2e7d32, #4caf50);
-    color: white;
+    color: rgb(5, 161, 57);
     padding: 25px;
     border-radius: 20px;
     text-align: center;

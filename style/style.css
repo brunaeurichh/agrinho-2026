@@ -1,74 +1,41 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, sans-serif;
-}
-
-body{
-    background: #f4f4f4;
-}
-.acessibilidade{
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin: 20px;
-}
-
-.acessibilidade button{
-    padding: 10px 15px;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    background-color: #1b5e20;
-    color: white;
-    cursor: pointer;
-}
-.hero{
+galeria{
+    padding: 50px 20px;
     text-align: center;
-    padding: 60px 20px;
+    background: #ffffff;
 }
 
-.hero h2{
+.galeria h2{
     color: #2e7d32;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
-.hero p{
-    max-width: 700px;
-    margin: auto;
-}
-
-button{
-    margin-top: 20px;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 8px;
-    background: #2e7d32;
-    color: white;
-    cursor: pointer;
-}
-
-.cards{
+.imagens{
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    padding: 40px;
 }
 
-.card{
-    background: white;
-    width: 280px;
-    padding: 20px;
+.imagens img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
 }
 
-footer{
-    background: #1b5e20;
-    color: white;
-    text-align: center;
-    padding: 20px;
+.imagens img:hover{
+    transform: scale(1.05);
 }
+
+.card:hover{
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #1b5e20;
+    transition: 0.3s;
+}
+

@@ -1,3 +1,4 @@
+
 .galeria{
     padding: 50px 20px;
     text-align: center;
@@ -27,11 +28,6 @@
 
 .imagens img:hover{
     transform: scale(1.05);
-}
-
-.card:hover{
-    transform: translateY(-5px);
-    transition: 0.3s;
 }
 
 button:hover{
@@ -75,10 +71,14 @@ nav a:hover{
     text-align: center;
     color: white;
     padding: 80px 20px;
-    
+    background: linear-gradient(
         rgba(0,0,0,0.4),
         rgba(0,0,0,0.4)
-    );
+    ),
+    url("../img/TRATOR.jpg");
+
+    background-size: cover;
+    background-position: center;
 }
 
 .banner h1{
@@ -128,5 +128,3 @@ nav a:hover{
 .imagens img:hover{
     transform: scale(1.08);
 }
-
-

@@ -71,12 +71,11 @@ Responsividade com media queries;Manipulação do DOM com JavaScript;
 Menu de acessibilidade com controle de fonte e contraste;
 
 🖼️ Galeria de Imagens
-casa.jpg  Retirado do site wikimedia Commons ()
 campo.jpg (se for da IA inserir aqui o prompt)
 👨‍🎓 Autoria
-Autor(a): Nome do(a) estudante
-Professor(a) orientador(a): Nome do(a) professor(a)
-Escola: Nome da instituição de ensino
+Autor(a): Bruna Eurich Schinemann
+Professor(a) orientador(a): Alexandra
+Escola: Colégio Estadual Cívico Militar Edite Cordeiro marques
 Município: Guarapuava – Paraná
 
 🖼️ Créditos dos Recursos Utilizados
@@ -103,4 +102,5 @@ agrinho2026
 Projeto desenvolvido exclusivamente para fins educacionais e para participação no Concurso Agrinho 2026.
 
 🌟 Considerações Finais
-O que se pode considerar a partir do projeto apresentado
+O desenvolvimento deste projeto permitiu compreender a importância do agronegócio para a sociedade e como a sustentabilidade pode ser integrada às atividades do campo. Foi possível observar que práticas sustentáveis contribuem para a preservação dos recursos naturais, ao mesmo tempo em que garantem a produção de alimentos e o crescimento econômico.
+Além disso, o projeto possibilitou a aplicação de conhecimentos de programação utilizando HTML, CSS e JavaScript para criar um site informativo e acessível. Dessa forma, conclui-se que a tecnologia e a conscientização ambiental são ferramentas fundamentais para a construção de um futuro mais sustentável.

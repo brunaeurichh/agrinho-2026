@@ -148,3 +148,33 @@ nav a:hover{
 .imagens img:hover{
     transform: scale(1.08);
 }
+/* Modo Alto Contraste */
+
+.alto-contraste{
+    background: black !important;
+    color: yellow !important;
+}
+
+.alto-contraste nav{
+    background: black !important;
+}
+
+.alto-contraste .card,
+.alto-contraste .numero{
+    background: #222 !important;
+    color: yellow !important;
+    border: 2px solid yellow;
+}
+
+.alto-contraste footer{
+    background: black !important;
+    color: yellow !important;
+}
+
+.alto-contraste h1,
+.alto-contraste h2,
+.alto-contraste h3,
+.alto-contraste p,
+.alto-contraste a{
+    color: yellow !important;
+}

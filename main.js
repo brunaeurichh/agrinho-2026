@@ -1,23 +1,17 @@
-// Botão da mensagem
-const botao = document.getElementById("btnMensagem");
-
-if (botao) {
-    botao.addEventListener("click", () => {
-        alert("🌱 Agro Forte, Futuro Sustentável!");
-    });
-}
-
-// Acessibilidade - Controle de fonte
-let tamanhoFonte = 100;
+let tamanhoFonte = 16;
 
 function aumentarFonte() {
-    tamanhoFonte += 10;
-    document.body.style.fontSize = tamanhoFonte + "%";
+    tamanhoFonte += 2;
+    document.body.style.fontSize = tamanhoFonte + "px";
 }
 
 function diminuirFonte() {
-    if (tamanhoFonte > 70) {
-        tamanhoFonte -= 10;
-        document.body.style.fontSize = tamanhoFonte + "%";
+    if (tamanhoFonte > 12) {
+        tamanhoFonte -= 2;
+        document.body.style.fontSize = tamanhoFonte + "px";
     }
+}
+
+function alternarContraste() {
+    document.body.classList.toggle("alto-contraste");
 }

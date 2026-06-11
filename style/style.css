@@ -98,22 +98,42 @@ nav a:hover{
     gap: 30px;
     flex-wrap: wrap;
     padding: 50px 20px;
-    background: white;
+    background: #f4fff4;
 }
 
 .numero{
+    width: 280px;
+    background: linear-gradient(135deg, #2e7d32, #4caf50);
+    color: white;
+    padding: 25px;
+    border-radius: 20px;
     text-align: center;
-    padding: 20px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 3px solid white;
+}
+
+.numero:hover{
+    transform: translateY(-10px);
 }
 
 .numero h2{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
 }
 
 .numero h3{
-    color: #2e7d32;
-    margin: 10px 0;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
 }
+
+.numero p{
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+
 
 /* EFEITOS */
 

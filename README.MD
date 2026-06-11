@@ -1,4 +1,3 @@
-
 🌾 Título do projeto
 Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, na Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
 
@@ -6,11 +5,11 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto Agro Forte (explique o seu projeto, o que ele apresenta)
+O projeto Agro Forte é um site desenvolvido em HTML, CSS e JavaScript com o objetivo de apresentar a importância do agronegócio sustentável para a sociedade e o meio ambiente.
 
-Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
+Por meio de textos e imagem o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
-O objetivo do projeto é ......................................
+O objetivo do projeto é conscientizar as pessoas sobre a importância do agronegócio para a produção de alimentos, o desenvolvimento econômico e a preservação do meio ambiente. O site apresenta informações sobre práticas sustentáveis no campo, mostrando como é possível produzir de forma eficiente sem comprometer os recursos naturais das futuras gerações.
 
 O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
@@ -18,12 +17,9 @@ O site busca explicar, de maneira simples e interativa, como a cadeia produtiva 
 O projeto conta com as seguintes funcionalidades:
 
 🏠 Página inicial com apresentação do tema;
-📱 Menu de navegação responsivo;
 🌾 Seção explicativa sobre a produção relacionada ao meio ambiente;
 ♿ Botão de acessibilidade;
 🔠 Opção de aumentar e diminuir fonte;
-🌓 Modo de alto contraste;
-📲 Layout adaptado para diferentes tamanhos de tela. (nem todos têm)
 💻 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando apenas tecnologias básicas de front-end:
 HTML5
